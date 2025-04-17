@@ -1,0 +1,5 @@
+blacklist.txt
+history.db
+fullmodel.fbd
+data
+secrets.json
